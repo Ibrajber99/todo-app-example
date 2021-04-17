@@ -30,3 +30,7 @@ The frontend application code is located in app/javascript/src.
 
 The frontend stylesheet is located in app/javascript/src/stylesheet.css.
 
+
+
+The link to the session: https://tan-quail-9l1m60ep.ws-us03.gitpod.io/
+
